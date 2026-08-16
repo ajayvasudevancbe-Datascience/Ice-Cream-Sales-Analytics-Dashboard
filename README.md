@@ -1,79 +1,47 @@
-# **Ice Cream Sales Analytics Dashboard**
+# 🐍 Python Data Analysis
 
-## **Project Overview**
+## 📌 Overview
 
-This project analyzes ice cream sales data using Python, Excel, and Power BI. The data was cleaned and prepared using Python and Excel, and an interactive Power BI dashboard was created to understand sales performance and generate useful business insights.
+A practical **Python Data Analysis** project focused on data cleaning, exploration, visualization, and extracting meaningful insights from datasets.
 
-## **Tools and Technologies**
+## 🛠️ Technologies
 
-**Python** - Data cleaning and analysis
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
 
-**Microsoft Excel** - Data preparation and analysis
+## 📊 Project Workflow
 
-**Power BI** - Dashboard and data visualization
+**Dataset → Data Cleaning → Data Preprocessing → EDA → Visualization → Insights**
 
-## **Project Workflow**
+## 🔍 Key Analysis
 
-Raw Sales Data  
-↓  
-Python  
-Data Cleaning and Analysis  
-↓  
-Excel  
-Data Preparation  
-↓  
-Power BI  
-Interactive Dashboard  
-↓  
-Business Insights
+- Data loading and inspection
+- Handling missing values
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Statistical analysis
+- Data visualization
+- Trend and pattern identification
+- Business insights
 
-## **Analysis**
+## 📂 Repository Structure
 
-The project focuses on:
-
-- Total Sales
-- Total Profit
-- Product Performance
-- Sales Trends
-- Quantity Sold
-- Revenue Analysis
-- Key Business KPIs
-
-## **Key Insights**
-
-Analyzed overall sales and profit performance.
-
-Identified product-level sales patterns.
-
-Compared sales performance across different categories.
-
-Created visual KPIs to understand business performance.
-
-Used dashboard visuals to support data-driven decisions.
-
-## **Dashboard**
-
-The Power BI dashboard provides an interactive view of the sales data and allows users to explore important business metrics.
-
-## **Skills Demonstrated**
-
-**Python**
-
-**Excel**
-
-**Power BI**
-
-**Data Cleaning**
-
-**Data Analysis**
-
-**Data Visualization**
-
-**Business Intelligence**
-
-## **Author**
-
-**Ajay Vasudevan**
-
-**GitHub:**  
-https://github.com/ajayvasudevancbe-Datascience
+```text
+python-data-analysis/
+│
+├── dataset/
+│   └── data.csv
+│
+├── notebooks/
+│   └── data_analysis.ipynb
+│
+├── src/
+│   └── analysis.py
+│
+├── visualizations/
+│   └── charts.png
+│
+└── README.md
