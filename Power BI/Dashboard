@@ -1,1 +1,40 @@
 
+---
+
+## 📊 Power BI Repository — `README.md`
+
+```markdown
+# 📊 Power BI Business Dashboard
+
+## 📌 Overview
+
+An interactive **Power BI dashboard** designed to analyze business performance, track KPIs, and generate actionable insights.
+
+## 🛠️ Tools
+
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Microsoft Excel
+
+## 📊 Key Features
+
+- Data Cleaning & Transformation
+- Data Modeling
+- KPI Analysis
+- DAX Measures
+- Interactive Visualizations
+- Business Insights
+
+## 📂 Structure
+
+```text
+PowerBI-Dashboard/
+│
+├── dataset/
+├── PowerBI/
+│   └── dashboard.pbix
+├── screenshots/
+│   └── dashboard.png
+└── README.md
