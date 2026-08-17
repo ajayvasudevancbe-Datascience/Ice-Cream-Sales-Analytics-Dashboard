@@ -1,47 +1,61 @@
-# 🐍 Python Data Analysis
+# 🍦 Ice Cream Sales Analytics Dashboard
 
-## 📌 Overview
+## 📌 Project Overview
 
-A practical **Python Data Analysis** project focused on data cleaning, exploration, visualization, and extracting meaningful insights from datasets.
+An end-to-end **Data Analytics project** focused on analyzing ice cream sales data to identify **revenue, profit, product performance, sales trends, and business insights**.
 
-## 🛠️ Technologies
+The project uses **Python, Excel, SQL, and Power BI** to transform raw sales data into an interactive business dashboard.
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
+---
 
-## 📊 Project Workflow
+## 🎯 Objective
 
-**Dataset → Data Cleaning → Data Preprocessing → EDA → Visualization → Insights**
+- Analyze overall sales performance
+- Identify top-performing products and categories
+- Analyze revenue and profit
+- Track sales trends
+- Compare store/location performance
+- Create meaningful KPIs
+- Build an interactive Power BI dashboard
+- Support data-driven business decisions
 
-## 🔍 Key Analysis
+---
 
-- Data loading and inspection
-- Handling missing values
-- Data cleaning and preprocessing
-- Exploratory Data Analysis (EDA)
-- Statistical analysis
-- Data visualization
-- Trend and pattern identification
-- Business insights
+## 🛠️ Tools & Technologies
 
-## 📂 Repository Structure
+| Tool | Purpose |
+|---|---|
+| 🐍 Python | Data Cleaning & Exploratory Data Analysis |
+| 📊 Pandas | Data Processing & Analysis |
+| 📗 Excel | Data Validation & Calculations |
+| 🗄️ SQL | Data Querying & Analysis |
+| 📈 Power BI | Dashboard & Visualization |
+| 🔄 Power Query | Data Transformation |
+| 📐 DAX | KPI & Measure Calculations |
+
+---
+
+## 🔄 Project Workflow
 
 ```text
-python-data-analysis/
-│
-├── dataset/
-│   └── data.csv
-│
-├── notebooks/
-│   └── data_analysis.ipynb
-│
-├── src/
-│   └── analysis.py
-│
-├── visualizations/
-│   └── charts.png
-│
-└── README.md
+Raw Data
+   ↓
+Data Cleaning
+   ↓
+Python & Pandas
+   ↓
+Exploratory Data Analysis
+   ↓
+Excel Analysis
+   ↓
+SQL Analysis
+   ↓
+Power Query
+   ↓
+Data Modeling
+   ↓
+DAX Measures
+   ↓
+Power BI Dashboard
+   ↓
+Business Insights
