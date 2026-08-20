@@ -25,12 +25,11 @@ The project uses **Python, Excel, SQL, and Power BI** to transform raw sales dat
 
 | Tool | Purpose |
 |---|---|
-| 🐍 Python | Data Cleaning & Exploratory Data Analysis |
+| 🐍 Python |Exploratory Data Analysis |
 | 📊 Pandas | Data Processing & Analysis |
-| 📗 Excel | Data Validation & Calculations |
+| 📗 Excel | Data Cleaning |
 | 🗄️ SQL | Data Querying & Analysis |
 | 📈 Power BI | Dashboard & Visualization |
-| 🔄 Power Query | Data Transformation |
 | 📐 DAX | KPI & Measure Calculations |
 
 ---
