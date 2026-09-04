@@ -1,0 +1,33 @@
+# 🐍 Python Data Analysis
+
+## 📌 Overview
+
+A practical data analysis project using **Python** to clean, analyze, visualize, and extract insights from data.
+
+## 🛠️ Tools
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+## 📊 Key Work
+
+- Data Cleaning
+- Data Preprocessing
+- Exploratory Data Analysis
+- Data Visualization
+- Statistical Analysis
+- Business Insights
+
+## 📂 Structure
+
+```text
+Python-Data-Analysis/
+│
+├── dataset/
+├── notebooks/
+├── src/
+├── visualizations/
+└── README.md
